@@ -13,4 +13,6 @@ Kakitei Shinkoku (ITR): Tax adjustments for global income (most probably Indian 
 ##TODO##
 
    - Ask for gensen-shochu-hyo  (with in 3 weeks) while leaving the organization.
-------------------------------------------------------------------------------------
+   - transfer zip file (reciepts already shared with LISA San).
+   - Ask for Affidavit (already shared with LISA San) which needs to be provided for YETA in next organization.
+---------------------------------------------------------------------------------------------------------------
